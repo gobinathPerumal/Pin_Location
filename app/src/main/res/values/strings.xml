@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pin_Location</string>
+    <string name="username">UserName</string>
+    <string name="address">Address</string>
+    <string name="mobile">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="submit">submit</string>
+    <string name="update">update</string>
+    <string name="register">Register</string>
+    <string name="current_location">Current Location</string>
+    <string name="nearby_places">NearBy Places</string>
+    <string name="admin">Admin</string>
+</resources>
